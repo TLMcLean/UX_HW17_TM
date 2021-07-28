@@ -2,3 +2,18 @@ body {
    color:white;
    background-color: black;
 }
+header {
+   display:flex;
+   justify-content: space-between;
+}
+.logo{
+   width: 30%;
+}
+a{
+   padding: 5%;
+   color: white;
+   font-size: medium;
+}
+nav{
+   width: 30%;
+}
